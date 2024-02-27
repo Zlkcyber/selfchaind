@@ -1,5 +1,15 @@
 #!/bin/bash
 
+echo " _____   __    __ __________  ______  __________ "
+echo "/__  /  / /   / //_/ ____/\ \/ / __ )/ ____/ __ \"
+echo "  / /  / /   / ,< / /      \  / __  / __/ / /_/ /"
+echo " / /__/ /___/ /| / /___    / / /_/ / /___/ _, _/ "
+echo "/____/_____/_/ |_\____/   /_/_____/_____/_/ |_|  "
+
+read -p "Enter your moniker name: " MONIKER
+echo "Your moniker name is: $MONIKER"
+
+
 # Update and install packages for compiling
 sudo apt update
 sudo apt install curl git jq lz4 build-essential -y
