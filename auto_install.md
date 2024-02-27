@@ -1,10 +1,5 @@
 # This is instructions for automation installation 
 
-- Set Your moniker 
-```bash
-MONIKER="your moniker name"
-```
-
 - Clone repositorie
 ``` 
 git clone https://github.com/Zlkcyber/selfchaind.git
