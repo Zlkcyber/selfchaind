@@ -3,9 +3,13 @@
 - Port: 113
 - Version: 0.2.2
 
-## Auto installation you can
+---
+
+# Auto installation
 
 [Click here](auto_install.md) to view the auto installation instructions.
+
+---
 
 # MANUAL INSTALLATION 
 
