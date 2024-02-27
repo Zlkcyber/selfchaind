@@ -1,13 +1,15 @@
-# Set Your moniker 
+#This is instructions for automation installation 
+
+- Set Your moniker 
 ```bash
 MONIKER="your moniker name"
 ```
 
-# Clone repositorie
+- Clone repositorie
 ``` 
 git clone https://github.com/Zlkcyber/selfchaind.git
 ```
-# Make it executable
+- Make it executable
 ```
 cd selfchaind
 ```
@@ -15,7 +17,7 @@ cd selfchaind
 chmod +x auto_install.sh
 ```
 
-# AND RUN THE SCRIPT
+- AND RUN THE SCRIPT
 ```
 ./auto_install.sh
 ```
