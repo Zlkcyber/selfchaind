@@ -1,7 +1,14 @@
-# Selfchain
+# SELFCHAIND 
 - Chain ID:self-dev-1
 - Port: 113
 - Version: 0.2.2
+
+## Auto installation you can
+
+[Click here](auto_install.md) to view the auto installation instructions.
+
+# MANUAL INSTALLATION 
+
 ```
 MONIKER="Yourmoniker"
 ```
